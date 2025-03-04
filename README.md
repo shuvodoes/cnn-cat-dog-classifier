@@ -26,6 +26,9 @@ dataset/
 │       ├── dog1.jpg
 │       ├── dog2.jpg
 │       ├── ...
+
+
+
 ├── test_set/
 │   ├── cat/
 │   │   ├── cat1.jpg
@@ -35,6 +38,9 @@ dataset/
 │       ├── dog1.jpg
 │       ├── dog2.jpg
 │       ├── ...
+
+
+
 └── single_prediction/
     ├── cat_or_dog_1.jpg
     ├── cat_or_dog_2.jpg
